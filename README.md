@@ -11,7 +11,7 @@ Index of computational geoscience work by **Jeevan Jyoti Rout**, M.S. Geological
 | [Seismology](https://github.com/Jeevanjyotirout/Seismology) | Selenium-based automation for bulk-downloading seismic waveform data from IRIS Wilber 3, with event processing, station filtering and Excel reporting |
 | [Global-Seismicity-Monitor](https://github.com/Jeevanjyotirout/Global-Seismicity-Monitor) | Browser-based dashboard for monitoring global earthquake activity |
 | [Seismic-Data-Classification](https://github.com/Jeevanjyotirout/Seismic-Data-Classification) | Classification of seismic data using machine learning |
-| [Advance-Lithology-Prediction](https://github.com/Jeevanjyotirout/Advance-Lithology-Prediction) | Machine-learning lithology prediction from well-log data |
+| [Well-Log-Analysis](https://github.com/Jeevanjyotirout/Well-Log-Analysis) | Exploratory analysis of wireline well-log data: cleaning, correlation analysis and multi-track log plots |
 
 ## Geology and visualisation
 
@@ -34,7 +34,7 @@ Index of computational geoscience work by **Jeevan Jyoti Rout**, M.S. Geological
 |---|---|
 | [Astrophysics](https://github.com/Jeevanjyotirout/Astrophysics) | Space-astronomy coursework: Jupyter notebooks and Python scripts |
 | [Exoplanet-Habitability-Analysis](https://github.com/Jeevanjyotirout/Exoplanet-Habitability-Analysis) | Machine-learning analysis of exoplanet habitability using NASA Exoplanet Archive data |
-| [Exoplanets-Data-Analysis-](https://github.com/Jeevanjyotirout/Exoplanets-Data-Analysis-) | Exploratory analysis of the NASA Exoplanet Archive dataset |
+| [Exoplanets-Data-Analysis](https://github.com/Jeevanjyotirout/Exoplanets-Data-Analysis) | Exploratory analysis of the NASA Exoplanet Archive dataset |
 
 ## Tools and software
 
